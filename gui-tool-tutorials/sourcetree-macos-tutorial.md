@@ -54,7 +54,7 @@ In Sourcetree, Click on the "Remote" button. This should load all of your GitHub
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-5-cloning.png" alt="clone this repository" />
 
-Once you click the "Clone" button, you will be presented with another view to define several different things.
+Once you click the "Clone" button, you will be presented with another view to define several things.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sourcetree-macos-tutorial/sourcetree-6-cloning-confirm.png" alt="clone this repository" />
 
